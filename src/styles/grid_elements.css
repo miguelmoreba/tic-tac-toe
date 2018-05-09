@@ -5,7 +5,18 @@
   display: inline-block;
 }
 
-.top-row {
+.cross {
+  background-image: url('./images/cross.jpg');
+  background-size: contain;
+
+}
+
+.nought {
+  background-image:  url('./images/nought.png');
+  background-size: contain;
+}
+
+/* .top-row {
 
 }
 
@@ -27,4 +38,4 @@
 
 .right-column {
 
-}
+} */
