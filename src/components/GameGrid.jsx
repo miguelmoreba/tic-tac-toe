@@ -7,8 +7,8 @@ class GameGrid extends React.Component {
 
     return(
       <div id="game-grid">
-        grid
-        <GridElements grid={this.props.grid}/>
+        Reset
+        <GridElements grid={this.props.grid} handleCellClick={this.props.handleCellClick}/>
       </div>
     )
   }

@@ -12,39 +12,12 @@
   border: 1px solid red;
 }
 
-
-
 .cross {
   background-image: url('./images/cross.jpg');
   background-size: contain;
-
 }
 
 .nought {
   background-image:  url('./images/nought.png');
   background-size: contain;
 }
-
-/* .top-row {
-
-}
-
-.middle-row {
-
-}
-
-.bottom-row {
-
-}
-
-.left-column {
-
-}
-
-.middle-column {
-
-}
-
-.right-column {
-
-} */

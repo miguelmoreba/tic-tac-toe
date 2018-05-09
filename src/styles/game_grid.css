@@ -4,6 +4,6 @@
   border: 5px solid black;
   display: inline-block;
   margin: auto;
-  padding-left: 50px;
   display: grid;
+  text-align: center;
 }
