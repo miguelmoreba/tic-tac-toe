@@ -1,4 +1,5 @@
 import React from 'react';
+import GameGrid from '../components/GameGrid.jsx';
 
 class GameContainer extends React.Component {
   constructor(props){
@@ -11,7 +12,7 @@ class GameContainer extends React.Component {
   render(){
     return(
       <div>
-        This is where the game will be
+        <GameGrid/>
       </div>
     )
   }
