@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './styles/main.css';
 import GameContainer from './containers/GameContainer.jsx';
 
 class App extends Component {

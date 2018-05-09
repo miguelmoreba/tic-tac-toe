@@ -1,0 +1,30 @@
+.cell {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.top-row {
+
+}
+
+.middle-row {
+
+}
+
+.bottom-row {
+
+}
+
+.left-column {
+
+}
+
+.middle-column {
+
+}
+
+.right-column {
+
+}
