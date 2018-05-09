@@ -3,7 +3,16 @@
   width: 100px;
   border: 1px solid black;
   display: inline-block;
+  cursor: pointer;
+  opacity: 0.8;
 }
+
+.cell:hover {
+  opacity: 1;
+  border: 1px solid red;
+}
+
+
 
 .cross {
   background-image: url('./images/cross.jpg');

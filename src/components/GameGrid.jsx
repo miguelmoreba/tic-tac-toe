@@ -4,10 +4,11 @@ import '../styles/game_grid.css';
 
 class GameGrid extends React.Component {
   render(){
+
     return(
       <div id="game-grid">
         grid
-        <GridElements/>
+        <GridElements grid={this.props.grid}/>
       </div>
     )
   }
